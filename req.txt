@@ -1,0 +1,54 @@
+user module:
+
+Register:
+
+first name,
+last name,
+mobile number,
+emailid,
+password
+
+login:
+
+ emailid/ mobile number,
+ password 
+
+product:
+
+pid,
+name,
+description,
+imageurl,
+productdetails,
+price,
+isAvailable,
+discount
+rating
+
+ product list.
+
+ 
+
+
+ admin module:
+
+
+ 1. add, delete, update, list all products,
+
+ 2. users
+
+ 3. update order status
+
+
+
+APIs:
+
+Register:
+
+
+
+
+
+
+
+
